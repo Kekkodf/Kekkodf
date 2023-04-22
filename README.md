@@ -9,7 +9,7 @@
       <td> <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> </td>
       </tr>
   </table>
-    <h2> Who am I? </h2>
+    <h2><tt>whoami</tt></h2>
   👋 Hi, I’m Francesco, but my friends call me kdf_7.
     <br>
     👀 I'm interested in:
