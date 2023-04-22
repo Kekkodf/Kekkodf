@@ -37,12 +37,12 @@
 <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kekkodf&theme=midnight-purple&show_icons=true" />
 <br>
-    📈 Let's see how continous is my learning curve...
+    📈 Lines...
 <br>
 <br>
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kekkodf&theme=github-compact" />
 <br>
-    💻 Which are my top languages?
+    💻 Top languages...
 <br>
 <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kekkodf&layout=dark&theme=midnight-purple" />
