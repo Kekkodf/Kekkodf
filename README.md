@@ -47,6 +47,6 @@
     💻 Top languages...
 <br>
 <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kekkodf&layout=dark&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kekkodf&layout=compact&theme=midnight-purple&hide_progress=True" />
 </body>
 </html>
