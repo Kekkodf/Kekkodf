@@ -37,6 +37,14 @@
     Just General Stats, 'General Stats 🫡'...
 <br>
 <br>
+    Some of my projects...
+    <br>
+    <br>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=RoC-Path-Information-Security&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=RoC-Path-Information-Security&theme=midnight-purple" /> </a>
+ <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Privacy-Preserving-Information-Access&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Privacy-Preserving-Information-Access&theme=midnight-purple" /> </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Project-of-Digital-Forensics-course&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Project-of-Digital-Forensics-course&theme=midnight-purple" /> </a>
+    <br>
+    <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kekkodf&theme=midnight-purple&show_icons=true" />
 <br>
     📈 Lines...
