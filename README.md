@@ -50,11 +50,6 @@
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kekkodf&theme=midnight-purple&show_icons=true" />
 <br>
-    📈 Lines...
-<br>
-<br>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kekkodf&theme=github-compact" />
-<br>
     💻 Top languages...
 <br>
 <br>
