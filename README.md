@@ -33,26 +33,5 @@
         <td> <a href="https://www.linkedin.com/in/francesco-l-de-faveri-028a911bb"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </td>
       </tr>
     </table>
-    <h2> Some stats about me </h2>
-    Just General Stats, 'General Stats 🫡'...
-<br>
-<br>
-    Some of my projects...
-    <br>
-    <br>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=RoC-Path-Information-Security&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=RoC-Path-Information-Security&theme=midnight-purple" /> </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=DREX&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=DREX&theme=midnight-purple" /> </a>
- <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Privacy-Preserving-Information-Access&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Privacy-Preserving-Information-Access&theme=midnight-purple" /> </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Project-of-Digital-Forensics-course&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Project-of-Digital-Forensics-course&theme=midnight-purple" /> </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=kdf.github.io&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=kdf.github.io&theme=midnight-purple" /> </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Pdf-works-utils&theme=midnight-purple"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kekkodf&repo=Pdf-works-utils&theme=midnight-purple" /> </a>
-    <br>
-    <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kekkodf&theme=midnight-purple&show_icons=true" />
-<br>
-    💻 Top languages...
-<br>
-<br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kekkodf&layout=compact&theme=midnight-purple&hide_progress=True" />
 </body>
 </html>
