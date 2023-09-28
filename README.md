@@ -21,7 +21,7 @@
       <li>Social Network Analysis 🐦</li>
       <li>Machine & Deep Learning 📖</li>
     </ul>
-    📚 I've taken my bachelor degree in Mathemathics at Università degli Studi di Trieste, @Units, and my Master degree in Cybersecurity ay Università degli Studi di Padova, @Unipd, in Italy. Now, I'm a PhD Candidate at Università degli Studi di Padova, @Unipd, in Italy.
+    📚 I've taken my Bachelor's degree in Mathematics at Università degli Studi di Trieste, @Units, and my Master's degree in Cybersecurity at Università degli Studi di Padova, @Unipd, in Italy. Now, I'm a PhD Candidate at Università degli Studi di Padova, @Unipd, in Italy.
     <h2> How to reach me? </h2>
     Just send me an email at <a href="mailto: francesco.defaveri1999@gmail.com"> francesco.defaveri1999@gmail.com</a> or contact me on my social.
     <br>
